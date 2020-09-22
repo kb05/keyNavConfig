@@ -1,0 +1,93 @@
+### Start keys
+
+ctrl+semicolon start
+
+
+# Number pad keys
+ctrl+shift+Up start
+ctrl+shift+Left start
+ctrl+shift+Right start
+ctrl+shift+Down start
+
+# Keys
+ctrl+shift+i start
+ctrl+shift+j start
+ctrl+shift+k start
+ctrl+shift+l start
+
+
+Escape end
+ctrl+bracketleft end
+
+
+### Sections keys
+
+# Left
+Left cut-left
+j 	 cut-lef
+
+# Down
+Down cut-down
+k cut-down
+
+# Up
+Up cut-up
+i cut-up
+
+# Right
+Right cut-right
+l cut-right
+
+
+### Move keys
+
+# Move Up
+shift+i move-up
+shift+Up move-up
+
+# Move Right
+shift+l move-right
+shift+Right move-right
+
+# Move Down
+shift+k move-down
+shift+Down move-down
+
+# Move Left
+shift+j move-left
+shift+Left move-left
+
+
+
+### Scroll keys
+# PageUp click 4
+# PageDown click 5
+
+
+### Click keys
+
+space warp,click 1,end
+shift+space warp,click 1
+
+p warp,click 3,end
+
+n click 4
+m click 5
+
+semicolon warp,end
+1 click 1
+2 click 2
+3 click 3
+4 click 4
+5 click 5
+
+# Zoom to the current window
+w windowzoom
+
+# Zoom to the cursor location with a given height and width
+c cursorzoom 200 200
+
+# Record keynav actions
+q record
+
+a history-back
