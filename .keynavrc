@@ -4,16 +4,16 @@ ctrl+semicolon start
 
 
 # Number pad keys
-ctrl+shift+Up start
-ctrl+shift+Left start
-ctrl+shift+Right start
-ctrl+shift+Down start
+ctrl+shift+alt+Up start
+ctrl+shift+alt+Left start
+ctrl+shift+alt+Right start
+ctrl+shift+alt+Down start
 
 # Keys
-ctrl+shift+i start
-ctrl+shift+j start
-ctrl+shift+k start
-ctrl+shift+l start
+ctrl+shift+alt+i start
+ctrl+shift+alt+j start
+ctrl+shift+alt+k start
+ctrl+shift+alt+l start
 
 
 Escape end
